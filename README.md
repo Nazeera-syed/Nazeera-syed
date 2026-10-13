@@ -10,13 +10,12 @@ I build full-stack applications using **React, Node.js, Express.js, and MongoDB*
 ## 🚀 About Me
 
 * 💻 MERN Stack Developer
-* 🌐 Freelancer since 2024
 * 📍 Chennai, India
 * 🔨 Building full-stack web applications and business websites
 * 💳 Experience with Stripe & Razorpay integrations
 * 🔐 Experience with Firebase Authentication
 * 🌱 Continuously improving my full-stack development skills
-* 💼 Open to remote MERN / Full-Stack Developer opportunities
+* 💼 Open to remote/onsite work on  MERN / Full-Stack Developer opportunities
 
 ## 🛠️ Technical Skills
 
