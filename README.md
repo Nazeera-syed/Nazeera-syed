@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Nazeera Syed
 
-### MERN Stack Developer | Freelancer
+### MERN Stack Developer 
 
-I'm a **MERN Stack Developer and Freelancer** focused on building modern, responsive, and user-friendly web applications.
+I'm a **MERN Stack Developer** focused on building modern, responsive, and user-friendly web applications.
 
 I build full-stack applications using **React, Node.js, Express.js, and MongoDB**, with experience in authentication, payment gateways, REST APIs, dashboards, eCommerce, and deployment.
 
